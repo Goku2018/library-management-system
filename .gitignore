@@ -62,3 +62,6 @@ build/
 
 # macOS
 .DS_Store
+
+#MYSQL JDBC Connector
+src/main/resources/db.properties
